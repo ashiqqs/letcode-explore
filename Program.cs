@@ -19,7 +19,8 @@ namespace HackerrankSolution
             //CuttingPaper.Execute();
             //BestDivisor.Execute();
             //Sorting.Bubble();
-            ReverseGame.Execute();
+            //ReverseGame.Execute();
+            StrangeGridAgain.Execute();
 
             Console.ReadKey();
 
