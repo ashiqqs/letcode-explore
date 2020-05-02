@@ -47,6 +47,7 @@
     <Compile Include="BestDivisor.cs" />
     <Compile Include="ConnectingTowns.cs" />
     <Compile Include="CuttingPaper.cs" />
+    <Compile Include="DiwaliLights.cs" />
     <Compile Include="FindThePoint.cs" />
     <Compile Include="MaxPrimeFactor.cs" />
     <Compile Include="Program.cs" />

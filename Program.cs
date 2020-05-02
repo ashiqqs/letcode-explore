@@ -20,7 +20,8 @@ namespace HackerrankSolution
             //BestDivisor.Execute();
             //Sorting.Bubble();
             //ReverseGame.Execute();
-            StrangeGridAgain.Execute();
+            //StrangeGridAgain.Execute();
+            DiwaliLights.Execute();
 
             Console.ReadKey();
 
