@@ -21,10 +21,10 @@ namespace HackerrankSolution
             //Sorting.Bubble();
             //ReverseGame.Execute();
             //StrangeGridAgain.Execute();
-            DiwaliLights.Execute();
+            //DiwaliLights.Execute();
+            SherlockDivisors.Execute();
 
             Console.ReadKey();
-
         }
         public static int gcd(int a, int b)
         {
