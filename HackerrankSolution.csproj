@@ -48,7 +48,9 @@
     <Compile Include="ConnectingTowns.cs" />
     <Compile Include="CuttingPaper.cs" />
     <Compile Include="DiwaliLights.cs" />
+    <Compile Include="FillingJars.cs" />
     <Compile Include="FindThePoint.cs" />
+    <Compile Include="HallowenParty.cs" />
     <Compile Include="MaxPrimeFactor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

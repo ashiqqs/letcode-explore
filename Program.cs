@@ -22,7 +22,9 @@ namespace HackerrankSolution
             //ReverseGame.Execute();
             //StrangeGridAgain.Execute();
             //DiwaliLights.Execute();
-            SherlockDivisors.Execute();
+            //SherlockDivisors.Execute();
+            //HallowenParty.Execute();
+            FillingJars.Execute();
 
             Console.ReadKey();
         }
