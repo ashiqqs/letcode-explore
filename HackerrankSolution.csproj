@@ -45,18 +45,24 @@
   <ItemGroup>
     <Compile Include="ArmyGame.cs" />
     <Compile Include="BestDivisor.cs" />
+    <Compile Include="InterviewPreparationKit\CloudJumping.cs" />
     <Compile Include="ConnectingTowns.cs" />
     <Compile Include="CuttingPaper.cs" />
     <Compile Include="DiwaliLights.cs" />
     <Compile Include="FillingJars.cs" />
     <Compile Include="FindThePoint.cs" />
     <Compile Include="HallowenParty.cs" />
+    <Compile Include="Helper.cs" />
+    <Compile Include="InterviewPreparationKit\LeftRotation.cs" />
+    <Compile Include="InterviewPreparationKit\RepeatedString.cs" />
+    <Compile Include="InterviewPreparationKit\TwoDArray.cs" />
     <Compile Include="MaxPrimeFactor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReverseGame.cs" />
     <Compile Include="SherlockDivisors.cs" />
     <Compile Include="Sorting.cs" />
+    <Compile Include="SpecialMultiple.cs" />
     <Compile Include="StrangeGridAgain.cs" />
   </ItemGroup>
   <ItemGroup>

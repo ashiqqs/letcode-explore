@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HackerrankSolution.InterviewPreparationKit;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -12,19 +13,7 @@ namespace HackerrankSolution
 
         static void Main(string[] args)
         {
-            //FindThePoint.Execute();
-            //ArmyGame.Execute();
-            //MaxPrimeFactor.Execute();
-            //ConnectingTowns.Execute();
-            //CuttingPaper.Execute();
-            //BestDivisor.Execute();
-            //Sorting.Bubble();
-            //ReverseGame.Execute();
-            //StrangeGridAgain.Execute();
-            //DiwaliLights.Execute();
-            //SherlockDivisors.Execute();
-            //HallowenParty.Execute();
-            FillingJars.Execute();
+            LeftRotation.Execute();
 
             Console.ReadKey();
         }
