@@ -13,7 +13,7 @@ namespace HackerrankSolution
 
         static void Main(string[] args)
         {
-            LeftRotation.Execute();
+             NewYearChaos.minimumBribes(new int[]{ 1, 2, 5, 3 ,7 ,8 ,6 ,4 });
 
             Console.ReadKey();
         }
