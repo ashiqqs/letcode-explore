@@ -54,6 +54,7 @@
     <Compile Include="HallowenParty.cs" />
     <Compile Include="Helper.cs" />
     <Compile Include="InterviewPreparationKit\LeftRotation.cs" />
+    <Compile Include="InterviewPreparationKit\MinimumSwap.cs" />
     <Compile Include="InterviewPreparationKit\NewYearChaos.cs" />
     <Compile Include="InterviewPreparationKit\RepeatedString.cs" />
     <Compile Include="InterviewPreparationKit\TwoDArray.cs" />

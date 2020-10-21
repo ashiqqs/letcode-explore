@@ -4,3 +4,9 @@ C:\Users\Md Ashiqur Rahman\source\repos\HackerrankSolution\bin\Debug\HackerrankS
 C:\Users\Md Ashiqur Rahman\source\repos\HackerrankSolution\obj\Debug\HackerrankSolution.csprojAssemblyReference.cache
 C:\Users\Md Ashiqur Rahman\source\repos\HackerrankSolution\obj\Debug\HackerrankSolution.exe
 C:\Users\Md Ashiqur Rahman\source\repos\HackerrankSolution\obj\Debug\HackerrankSolution.pdb
+P:\MyProjects\2020\HackerrankSolution\bin\Debug\HackerrankSolution.exe.config
+P:\MyProjects\2020\HackerrankSolution\bin\Debug\HackerrankSolution.exe
+P:\MyProjects\2020\HackerrankSolution\bin\Debug\HackerrankSolution.pdb
+P:\MyProjects\2020\HackerrankSolution\obj\Debug\HackerrankSolution.csprojAssemblyReference.cache
+P:\MyProjects\2020\HackerrankSolution\obj\Debug\HackerrankSolution.exe
+P:\MyProjects\2020\HackerrankSolution\obj\Debug\HackerrankSolution.pdb
