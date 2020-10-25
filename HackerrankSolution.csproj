@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="ArmyGame.cs" />
     <Compile Include="BestDivisor.cs" />
+    <Compile Include="InterviewPreparationKit\ArrayManipulation.cs" />
     <Compile Include="InterviewPreparationKit\CloudJumping.cs" />
     <Compile Include="ConnectingTowns.cs" />
     <Compile Include="CuttingPaper.cs" />
