@@ -1,4 +1,5 @@
 ﻿using HackerrankSolution.InterviewPreparationKit;
+using HackerrankSolution.InterviewPreparationKit.DictionaryHashmaps;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -13,12 +14,11 @@ namespace HackerrankSolution
 
         static void Main(string[] args)
         {
-            int[][] queries = new int[3][]
-            {
-                new int[3]{ 1,2,100}, new int[3]{ 2,5,100}, new int[3]{ 3,4,100},
-            };
-
-             Console.WriteLine(ArrayManipulation.GetMaxNum(5,queries));
+            RansomNote ransomNote = new RansomNote();
+            string[] magazines = "two times three is not four".Split(' ').Select(word => word).ToArray();
+            string[] notes = "two times two is four".Split(' ').Select(word => word).ToArray();
+            
+            ransomNote.CheckMagagine(magazines, notes);
 
             Console.ReadKey();
         }
