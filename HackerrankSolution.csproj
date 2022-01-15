@@ -60,6 +60,8 @@
     <Compile Include="InterviewPreparationKit\DictionaryHashmaps\RansomNote.cs" />
     <Compile Include="InterviewPreparationKit\RepeatedString.cs" />
     <Compile Include="InterviewPreparationKit\ArraySolution\TwoDArray.cs" />
+    <Compile Include="Leetcode\ArrayString\DiagonalTraverse.cs" />
+    <Compile Include="Leetcode\ArrayString\SpiralMatrix.cs" />
     <Compile Include="MaxPrimeFactor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

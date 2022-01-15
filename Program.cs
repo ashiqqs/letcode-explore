@@ -1,5 +1,6 @@
 ﻿using HackerrankSolution.InterviewPreparationKit;
 using HackerrankSolution.InterviewPreparationKit.DictionaryHashmaps;
+using HackerrankSolution.Leetcode.ArrayString;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -14,11 +15,18 @@ namespace HackerrankSolution
 
         static void Main(string[] args)
         {
-            RansomNote ransomNote = new RansomNote();
-            string[] magazines = "two times three is not four".Split(' ').Select(word => word).ToArray();
-            string[] notes = "two times two is four".Split(' ').Select(word => word).ToArray();
-            
-            ransomNote.CheckMagagine(magazines, notes);
+            int[][] input = new int[1][];
+            input[0] = new int[5] {1,2,3,4,5} ;
+            //input[1] = new int[1] {2};
+            //input[2] = new int[1] {3};
+            //input[3] = new int[1] {4};
+
+            var res = SpiralMatrix.SpiralOrder(input);
+
+            foreach(int n in res)
+            {
+                Console.WriteLine(n);
+            }
 
             Console.ReadKey();
         }
