@@ -31,7 +31,6 @@ namespace HackerrankSolution.InterviewPreparationKit.DictionaryHashmaps
             //}
 
             Dictionary<string, int> magazineDict = new Dictionary<string, int>();
-            Dictionary<string, int> noteDict= new Dictionary<string, int>();
             foreach(var word in magazine)
             {
                 if (magazineDict.ContainsKey(word))
