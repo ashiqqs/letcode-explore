@@ -13,7 +13,8 @@ P:\MyProjects\2020\HackerrankSolution\obj\Debug\HackerrankSolution.pdb
 E:\Projects\2020\HackerrankSolution\bin\Debug\HackerrankSolution.exe.config
 E:\Projects\2020\HackerrankSolution\bin\Debug\HackerrankSolution.exe
 E:\Projects\2020\HackerrankSolution\bin\Debug\HackerrankSolution.pdb
-E:\Projects\2020\HackerrankSolution\obj\Debug\HackerrankSolution.csprojAssemblyReference.cache
 E:\Projects\2020\HackerrankSolution\obj\Debug\HackerrankSolution.csproj.CoreCompileInputs.cache
 E:\Projects\2020\HackerrankSolution\obj\Debug\HackerrankSolution.exe
 E:\Projects\2020\HackerrankSolution\obj\Debug\HackerrankSolution.pdb
+E:\Projects\2020\HackerrankSolution\obj\Debug\HackerrankSolution.csproj.AssemblyReference.cache
+E:\Projects\2020\HackerrankSolution\obj\Debug\HackerrankSolution.csproj.SuggestedBindingRedirects.cache

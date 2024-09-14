@@ -1,5 +1,6 @@
 ﻿using HackerrankSolution.InterviewPreparationKit;
 using HackerrankSolution.InterviewPreparationKit.DictionaryHashmaps;
+using HackerrankSolution.Leetcode;
 using HackerrankSolution.Leetcode.ArrayString;
 using System;
 using System.Collections.Generic;
@@ -10,26 +11,33 @@ using System.Threading.Tasks;
 
 namespace HackerrankSolution
 {
+    public class Customer {
+        public string Name { get; set; }
+        public int Age { get; set; }
+    }
+
     class Program
     {
-
         static void Main(string[] args)
         {
-            int[][] input = new int[1][];
-            input[0] = new int[5] {1,2,3,4,5} ;
-            //input[1] = new int[1] {2};
-            //input[2] = new int[1] {3};
-            //input[3] = new int[1] {4};
-
-            var res = SpiralMatrix.SpiralOrder(input);
-
-            foreach(int n in res)
+            var customers = new List<Customer>();
+            customers.Add(new Customer { Name = "Emma", Age = 25 });
+            customers.Add(new Customer { Name = "Jane", Age = 25 });
+            customers.Add(new Customer { Name = "Jacob", Age = 25 });
+            var query = customers.Where(c => c.Age > 30);
+            // Modify the data source after creating the query
+            customers.Add(new Customer { Name = "John", Age = 35 });
+            // Iterate over the query results
+            foreach (var customer in query.ToList())
             {
-                Console.WriteLine(n);
+                Console.WriteLine(customer.Name);
             }
+
 
             Console.ReadKey();
         }
+
+
         public static int gcd(int a, int b)
         {
             if (a == 0)
@@ -38,6 +46,22 @@ namespace HackerrankSolution
                 return a;
             else
                 return gcd(b%a,a);
+        }
+    }
+
+    public class A
+    {
+        public A()
+        {
+            Console.WriteLine("Class A");
+        }
+    }
+
+    public class B: A
+    {
+        public B()
+        {
+            Console.WriteLine("Class B");
         }
     }
 }
